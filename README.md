@@ -1,2 +1,2 @@
 #bookbot
-Bookboot is my first gir project!
+Bookboot is my first git project!
